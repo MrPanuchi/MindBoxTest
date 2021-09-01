@@ -1,0 +1,8 @@
+C:\Users\Пользователь\source\repos\TestLibruaryMindBox\TestLibruaryMindBox\bin\Debug\netcoreapp3.1\TestLibruaryMindBox.deps.json
+C:\Users\Пользователь\source\repos\TestLibruaryMindBox\TestLibruaryMindBox\bin\Debug\netcoreapp3.1\TestLibruaryMindBox.dll
+C:\Users\Пользователь\source\repos\TestLibruaryMindBox\TestLibruaryMindBox\bin\Debug\netcoreapp3.1\TestLibruaryMindBox.pdb
+C:\Users\Пользователь\source\repos\TestLibruaryMindBox\TestLibruaryMindBox\obj\Debug\netcoreapp3.1\TestLibruaryMindBox.AssemblyInfoInputs.cache
+C:\Users\Пользователь\source\repos\TestLibruaryMindBox\TestLibruaryMindBox\obj\Debug\netcoreapp3.1\TestLibruaryMindBox.AssemblyInfo.cs
+C:\Users\Пользователь\source\repos\TestLibruaryMindBox\TestLibruaryMindBox\obj\Debug\netcoreapp3.1\TestLibruaryMindBox.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\TestLibruaryMindBox\TestLibruaryMindBox\obj\Debug\netcoreapp3.1\TestLibruaryMindBox.dll
+C:\Users\Пользователь\source\repos\TestLibruaryMindBox\TestLibruaryMindBox\obj\Debug\netcoreapp3.1\TestLibruaryMindBox.pdb

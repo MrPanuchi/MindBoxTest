@@ -1,0 +1,16 @@
+C:\Users\Пользователь\source\repos\TestLibruaryMindBox\FigureShowcase\bin\Debug\netcoreapp3.1\FigureShowcase.exe
+C:\Users\Пользователь\source\repos\TestLibruaryMindBox\FigureShowcase\bin\Debug\netcoreapp3.1\FigureShowcase.deps.json
+C:\Users\Пользователь\source\repos\TestLibruaryMindBox\FigureShowcase\bin\Debug\netcoreapp3.1\FigureShowcase.runtimeconfig.json
+C:\Users\Пользователь\source\repos\TestLibruaryMindBox\FigureShowcase\bin\Debug\netcoreapp3.1\FigureShowcase.runtimeconfig.dev.json
+C:\Users\Пользователь\source\repos\TestLibruaryMindBox\FigureShowcase\bin\Debug\netcoreapp3.1\FigureShowcase.dll
+C:\Users\Пользователь\source\repos\TestLibruaryMindBox\FigureShowcase\bin\Debug\netcoreapp3.1\FigureShowcase.pdb
+C:\Users\Пользователь\source\repos\TestLibruaryMindBox\FigureShowcase\bin\Debug\netcoreapp3.1\TestLibruaryMindBox.dll
+C:\Users\Пользователь\source\repos\TestLibruaryMindBox\FigureShowcase\bin\Debug\netcoreapp3.1\TestLibruaryMindBox.pdb
+C:\Users\Пользователь\source\repos\TestLibruaryMindBox\FigureShowcase\obj\Debug\netcoreapp3.1\FigureShowcase.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\TestLibruaryMindBox\FigureShowcase\obj\Debug\netcoreapp3.1\FigureShowcase.AssemblyInfoInputs.cache
+C:\Users\Пользователь\source\repos\TestLibruaryMindBox\FigureShowcase\obj\Debug\netcoreapp3.1\FigureShowcase.AssemblyInfo.cs
+C:\Users\Пользователь\source\repos\TestLibruaryMindBox\FigureShowcase\obj\Debug\netcoreapp3.1\FigureShowcase.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\TestLibruaryMindBox\FigureShowcase\obj\Debug\netcoreapp3.1\FigureShowcase.csproj.CopyComplete
+C:\Users\Пользователь\source\repos\TestLibruaryMindBox\FigureShowcase\obj\Debug\netcoreapp3.1\FigureShowcase.dll
+C:\Users\Пользователь\source\repos\TestLibruaryMindBox\FigureShowcase\obj\Debug\netcoreapp3.1\FigureShowcase.pdb
+C:\Users\Пользователь\source\repos\TestLibruaryMindBox\FigureShowcase\obj\Debug\netcoreapp3.1\FigureShowcase.genruntimeconfig.cache
